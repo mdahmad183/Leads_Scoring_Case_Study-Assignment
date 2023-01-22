@@ -21,4 +21,4 @@
   * Lead Score Case Study - summary report in a word file  -By-Md AHMAD.pdf : Final Presentation
   * Leads.csv : Data worked on
   * Leads Data Dictionary.xlsx : Data Dictionary
-  * Summary.pdf : Summary on what's done in the entire py file 
+  * Summary of Leads_Scoring_Case_Study- By-(Md AHMAD).pdf : Summary on what's done in the entire py file 
