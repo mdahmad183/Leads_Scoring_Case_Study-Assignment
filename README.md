@@ -17,6 +17,7 @@
 
 * Details of files given
   * Leads_Scoring_Case_Study- By-(Md AHMAD) .ipynb : The python file showing coding and data analysis
+  * Leads_Scoring_Case_Study python_file- By-(Md AHMAD) : save as pythonr file 
   * Leads_Scoring_Case_Study- Subjective Questions - By-(Md AHMAD).pdf : Some subjective questions answered
   * Lead Score Case Study - summary report in a word file  -By-Md AHMAD.pdf : Final Presentation
   * Leads.csv : Data worked on
